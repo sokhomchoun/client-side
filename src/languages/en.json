@@ -1,0 +1,17 @@
+{
+    "language": {
+        "english": "English",
+        "khmer": "ខ្មែរ"
+    },
+    "menu": {
+        "pipeline": "Pipeline",
+        "deals": "Deals",
+        "contacts": "Contacts"
+    },
+    "theme": {
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+    }
+
+}

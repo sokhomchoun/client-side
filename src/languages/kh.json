@@ -1,0 +1,17 @@
+{
+    "language": {
+        "english": "English",
+        "khmer": "ខ្មែរ"
+    },
+    "menu": {
+        "pipeline": "ជំហាននៃការលក់",
+        "deals": "ឪកាសអាជីវកម្ម",
+        "contacts": "ទំនាក់ទំនង"
+    },
+    "theme": {
+        "light": "ពន្លឺ",
+        "dark": "ងងឹត",
+        "system": "ប្រព័ន្ធ"
+    }
+
+}
